@@ -1,0 +1,223 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml:3:1-44:12
+INJECTED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml:3:1-44:12
+INJECTED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml:3:1-44:12
+INJECTED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml:3:1-44:12
+MERGED from [me.dm7.barcodescanner:zbar:1.9.13] /Users/yongzheng/.gradle/caches/transforms-3/bc4e6aa6706a632894c7e59dfe598413/transformed/zbar-1.9.13/AndroidManifest.xml:2:1-13:12
+MERGED from [me.dm7.barcodescanner:core:1.9.13] /Users/yongzheng/.gradle/caches/transforms-3/e027bb128ab94a29d021d2e9ce95b991/transformed/core-1.9.13/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/491a3bd51affb92ef6bb178f61b397c5/transformed/support-v4-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/9330916aa8b8086424ce62b8da047aa0/transformed/design-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/0a27ff3fa3f7a944aa5bd617f07c497d/transformed/appcompat-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/66a63c99e7a671fd47f4aa952378d3c7/transformed/support-media-compat-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/1e794587a903fb711cf70d1a127a3db1/transformed/support-fragment-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/8fde52e76224cb1ed3d6f013ffad07b3/transformed/animated-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/7ba908f4f18a298e2cd3a9d2df55fa5a/transformed/recyclerview-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/d6eeb1b26174236756309e1c1362eb80/transformed/support-core-ui-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/6c4eeb87fcf9c96681db50c158960e01/transformed/support-core-utils-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/f6981aaeb94d1aa5c7dc1e9477288eec/transformed/support-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/d0542b45cdfa08f3826a44349f030264/transformed/transition-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/57631976e92c9a17d3dc5f6134f23578/transformed/loader-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/7d18dbccd739659a3a3f64bace8634fc/transformed/viewpager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/d11b4c5aa3dc45b70979e1bdb6765127/transformed/coordinatorlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/c566357d23ab695bb11c0902c91c9d68/transformed/drawerlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/fb9e4cdf86f8411c89d70d3be3b4d535/transformed/slidingpanelayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/e04b525aab99462af9ea7d610988fac3/transformed/customview-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/3451c03bd3def105f6105f0a3c4f87e4/transformed/swiperefreshlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/69d73c16800cc2b34965dabded9a232e/transformed/asynclayoutinflater-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/183c73343a705eb4250382bd9cfc7fa7/transformed/support-compat-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/f9c0befee744608ff4705a4cbe09d53e/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/b91c3b42b74fe9ba924b992307a799db/transformed/cursoradapter-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/308deac771ff485ee4507f5dc0a2428b/transformed/cardview-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/yongzheng/.gradle/caches/transforms-3/522de5cdb63b11310acbc621b4e2e9a8/transformed/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/c4fb0a117736bbb870595f6ee858fe5c/transformed/documentfile-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/ff323c8306717eb4a48aca442467e791/transformed/localbroadcastmanager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/a9e65597088b5d3532ddc235150d4696/transformed/print-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/52a464b7d2cc929ac697ff76d0bb1dc3/transformed/interpolator-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/yongzheng/.gradle/caches/transforms-3/295c9f9bdf026276f9d91d5f859b4790/transformed/viewmodel-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/yongzheng/.gradle/caches/transforms-3/a0619827a10776eeecf11ae799f28e8c/transformed/livedata-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/yongzheng/.gradle/caches/transforms-3/d0cdb3fd95f7c1671b12e561e9dc4ad8/transformed/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/yongzheng/.gradle/caches/transforms-3/762e622cf87d3ad6fc3d30122e4ef38e/transformed/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml:3:1-44:12
+INJECTED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml:3:1-44:12
+INJECTED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml:3:1-44:12
+	package
+		ADDED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml:3:70-113
+		INJECTED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml
+		INJECTED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml
+		ADDED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml:3:1-44:12
+		INJECTED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml
+		ADDED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml:3:1-44:12
+		INJECTED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml:3:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml:4:3-63
+	android:name
+		ADDED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml:4:20-60
+application
+ADDED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml:6:3-43:19
+MERGED from [me.dm7.barcodescanner:zbar:1.9.13] /Users/yongzheng/.gradle/caches/transforms-3/bc4e6aa6706a632894c7e59dfe598413/transformed/zbar-1.9.13/AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:zbar:1.9.13] /Users/yongzheng/.gradle/caches/transforms-3/bc4e6aa6706a632894c7e59dfe598413/transformed/zbar-1.9.13/AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:core:1.9.13] /Users/yongzheng/.gradle/caches/transforms-3/e027bb128ab94a29d021d2e9ce95b991/transformed/core-1.9.13/AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:core:1.9.13] /Users/yongzheng/.gradle/caches/transforms-3/e027bb128ab94a29d021d2e9ce95b991/transformed/core-1.9.13/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/9330916aa8b8086424ce62b8da047aa0/transformed/design-28.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/9330916aa8b8086424ce62b8da047aa0/transformed/design-28.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/183c73343a705eb4250382bd9cfc7fa7/transformed/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/183c73343a705eb4250382bd9cfc7fa7/transformed/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/f9c0befee744608ff4705a4cbe09d53e/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/f9c0befee744608ff4705a4cbe09d53e/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/183c73343a705eb4250382bd9cfc7fa7/transformed/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml:7:9-41
+	android:icon
+		ADDED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml:8:9-45
+	android:allowBackup
+		ADDED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml:6:16-42
+activity#me.dm7.barcodescanner.zbar.sample.MainActivity
+ADDED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml:9:9-16:20
+	android:label
+		ADDED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml:11:19-51
+	android:theme
+		ADDED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml:10:19-50
+	android:name
+		ADDED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml:9:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml:12:13-15:29
+action#android.intent.action.MAIN
+ADDED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml:14:17-77
+	android:name
+		ADDED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml:14:27-74
+activity#me.dm7.barcodescanner.zbar.sample.FullScannerActivity
+ADDED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml:18:9-24:20
+	android:label
+		ADDED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml:21:19-59
+	android:uiOptions
+		ADDED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml:20:19-63
+	android:theme
+		ADDED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml:19:19-57
+	android:name
+		ADDED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml:18:19-54
+meta-data#android.support.UI_OPTIONS
+ADDED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml:22:13-23:67
+	android:value
+		ADDED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml:23:24-64
+	android:name
+		ADDED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml:22:24-65
+activity#me.dm7.barcodescanner.zbar.sample.FullScannerFragmentActivity
+ADDED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml:26:9-32:20
+	android:label
+		ADDED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml:29:19-68
+	android:uiOptions
+		ADDED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml:28:19-63
+	android:theme
+		ADDED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml:27:19-57
+	android:name
+		ADDED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml:26:19-62
+activity#me.dm7.barcodescanner.zbar.sample.SimpleScannerActivity
+ADDED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml:34:9-37:20
+	android:label
+		ADDED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml:36:17-64
+	android:theme
+		ADDED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml:35:17-55
+	android:name
+		ADDED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml:34:19-56
+activity#me.dm7.barcodescanner.zbar.sample.SimpleScannerFragmentActivity
+ADDED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml:39:9-42:20
+	android:label
+		ADDED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml:41:17-73
+	android:theme
+		ADDED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml:40:17-55
+	android:name
+		ADDED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml:39:19-64
+uses-sdk
+INJECTED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml
+INJECTED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml
+MERGED from [me.dm7.barcodescanner:zbar:1.9.13] /Users/yongzheng/.gradle/caches/transforms-3/bc4e6aa6706a632894c7e59dfe598413/transformed/zbar-1.9.13/AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:zbar:1.9.13] /Users/yongzheng/.gradle/caches/transforms-3/bc4e6aa6706a632894c7e59dfe598413/transformed/zbar-1.9.13/AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:core:1.9.13] /Users/yongzheng/.gradle/caches/transforms-3/e027bb128ab94a29d021d2e9ce95b991/transformed/core-1.9.13/AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:core:1.9.13] /Users/yongzheng/.gradle/caches/transforms-3/e027bb128ab94a29d021d2e9ce95b991/transformed/core-1.9.13/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/491a3bd51affb92ef6bb178f61b397c5/transformed/support-v4-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/491a3bd51affb92ef6bb178f61b397c5/transformed/support-v4-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/9330916aa8b8086424ce62b8da047aa0/transformed/design-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/9330916aa8b8086424ce62b8da047aa0/transformed/design-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/0a27ff3fa3f7a944aa5bd617f07c497d/transformed/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/0a27ff3fa3f7a944aa5bd617f07c497d/transformed/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/66a63c99e7a671fd47f4aa952378d3c7/transformed/support-media-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/66a63c99e7a671fd47f4aa952378d3c7/transformed/support-media-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/1e794587a903fb711cf70d1a127a3db1/transformed/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/1e794587a903fb711cf70d1a127a3db1/transformed/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/8fde52e76224cb1ed3d6f013ffad07b3/transformed/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/8fde52e76224cb1ed3d6f013ffad07b3/transformed/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/7ba908f4f18a298e2cd3a9d2df55fa5a/transformed/recyclerview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/7ba908f4f18a298e2cd3a9d2df55fa5a/transformed/recyclerview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/d6eeb1b26174236756309e1c1362eb80/transformed/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/d6eeb1b26174236756309e1c1362eb80/transformed/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/6c4eeb87fcf9c96681db50c158960e01/transformed/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/6c4eeb87fcf9c96681db50c158960e01/transformed/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/f6981aaeb94d1aa5c7dc1e9477288eec/transformed/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/f6981aaeb94d1aa5c7dc1e9477288eec/transformed/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/d0542b45cdfa08f3826a44349f030264/transformed/transition-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/d0542b45cdfa08f3826a44349f030264/transformed/transition-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/57631976e92c9a17d3dc5f6134f23578/transformed/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/57631976e92c9a17d3dc5f6134f23578/transformed/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/7d18dbccd739659a3a3f64bace8634fc/transformed/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/7d18dbccd739659a3a3f64bace8634fc/transformed/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/d11b4c5aa3dc45b70979e1bdb6765127/transformed/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/d11b4c5aa3dc45b70979e1bdb6765127/transformed/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/c566357d23ab695bb11c0902c91c9d68/transformed/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/c566357d23ab695bb11c0902c91c9d68/transformed/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/fb9e4cdf86f8411c89d70d3be3b4d535/transformed/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/fb9e4cdf86f8411c89d70d3be3b4d535/transformed/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/e04b525aab99462af9ea7d610988fac3/transformed/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/e04b525aab99462af9ea7d610988fac3/transformed/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/3451c03bd3def105f6105f0a3c4f87e4/transformed/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/3451c03bd3def105f6105f0a3c4f87e4/transformed/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/69d73c16800cc2b34965dabded9a232e/transformed/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/69d73c16800cc2b34965dabded9a232e/transformed/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/183c73343a705eb4250382bd9cfc7fa7/transformed/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/183c73343a705eb4250382bd9cfc7fa7/transformed/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/f9c0befee744608ff4705a4cbe09d53e/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/f9c0befee744608ff4705a4cbe09d53e/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/b91c3b42b74fe9ba924b992307a799db/transformed/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/b91c3b42b74fe9ba924b992307a799db/transformed/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/308deac771ff485ee4507f5dc0a2428b/transformed/cardview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/308deac771ff485ee4507f5dc0a2428b/transformed/cardview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/yongzheng/.gradle/caches/transforms-3/522de5cdb63b11310acbc621b4e2e9a8/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/yongzheng/.gradle/caches/transforms-3/522de5cdb63b11310acbc621b4e2e9a8/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/c4fb0a117736bbb870595f6ee858fe5c/transformed/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/c4fb0a117736bbb870595f6ee858fe5c/transformed/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/ff323c8306717eb4a48aca442467e791/transformed/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/ff323c8306717eb4a48aca442467e791/transformed/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/a9e65597088b5d3532ddc235150d4696/transformed/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/a9e65597088b5d3532ddc235150d4696/transformed/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/52a464b7d2cc929ac697ff76d0bb1dc3/transformed/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/yongzheng/.gradle/caches/transforms-3/52a464b7d2cc929ac697ff76d0bb1dc3/transformed/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/yongzheng/.gradle/caches/transforms-3/295c9f9bdf026276f9d91d5f859b4790/transformed/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/yongzheng/.gradle/caches/transforms-3/295c9f9bdf026276f9d91d5f859b4790/transformed/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/yongzheng/.gradle/caches/transforms-3/a0619827a10776eeecf11ae799f28e8c/transformed/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/yongzheng/.gradle/caches/transforms-3/a0619827a10776eeecf11ae799f28e8c/transformed/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/yongzheng/.gradle/caches/transforms-3/d0cdb3fd95f7c1671b12e561e9dc4ad8/transformed/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/yongzheng/.gradle/caches/transforms-3/d0cdb3fd95f7c1671b12e561e9dc4ad8/transformed/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/yongzheng/.gradle/caches/transforms-3/762e622cf87d3ad6fc3d30122e4ef38e/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/yongzheng/.gradle/caches/transforms-3/762e622cf87d3ad6fc3d30122e4ef38e/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+INJECTED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml
+INJECTED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml
+		ADDED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml
+		INJECTED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml
+		ADDED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml
+		INJECTED from /Users/yongzheng/source/barcodescanner/zbar-sample/src/main/AndroidManifest.xml

@@ -1,0 +1,4 @@
+#Wed Jul 03 10:04:54 CST 2024
+base.0=/Users/yongzheng/source/barcodescanner/zbar-sample/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

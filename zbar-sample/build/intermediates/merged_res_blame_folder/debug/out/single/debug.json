@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/yongzheng/source/barcodescanner/zbar-sample/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/yongzheng/source/barcodescanner/zbar-sample/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/yongzheng/source/barcodescanner/zbar-sample/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/yongzheng/source/barcodescanner/zbar-sample/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/yongzheng/source/barcodescanner/zbar-sample/build/intermediates/res/merged/debug/layout_activity_full_scanner.xml.flat",
+        "source": "/Users/yongzheng/source/barcodescanner/zbar-sample/src/main/res/layout/activity_full_scanner.xml"
+    },
+    {
+        "merged": "/Users/yongzheng/source/barcodescanner/zbar-sample/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/yongzheng/source/barcodescanner/zbar-sample/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/yongzheng/source/barcodescanner/zbar-sample/build/intermediates/res/merged/debug/layout_activity_simple_scanner_fragment.xml.flat",
+        "source": "/Users/yongzheng/source/barcodescanner/zbar-sample/src/main/res/layout/activity_simple_scanner_fragment.xml"
+    },
+    {
+        "merged": "/Users/yongzheng/source/barcodescanner/zbar-sample/build/intermediates/res/merged/debug/layout_activity_full_scanner_fragment.xml.flat",
+        "source": "/Users/yongzheng/source/barcodescanner/zbar-sample/src/main/res/layout/activity_full_scanner_fragment.xml"
+    },
+    {
+        "merged": "/Users/yongzheng/source/barcodescanner/zbar-sample/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/yongzheng/source/barcodescanner/zbar-sample/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/yongzheng/source/barcodescanner/zbar-sample/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/yongzheng/source/barcodescanner/zbar-sample/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/yongzheng/source/barcodescanner/zbar-sample/build/intermediates/res/merged/debug/layout_activity_simple_scanner.xml.flat",
+        "source": "/Users/yongzheng/source/barcodescanner/zbar-sample/src/main/res/layout/activity_simple_scanner.xml"
+    }
+]

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "me.dm7.barcodescanner.zbar.sample",
+  "variantName": "debug",
+  "elements": []
+}
