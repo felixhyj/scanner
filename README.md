@@ -4,7 +4,7 @@ Project Archived
 
 This project is no longer maintained. When I first started this project in late 2013 there were very few libraries to help with barcode scanning on Android. But the situation today is much different. We have lots of great libraries based on ZXing and there is also barcode scanning API in Google's MLKit (https://github.com/googlesamples/mlkit). So given the options I have decided to stop working on this project.
 
-Introduction
+Introduction .
 ============
 
 Android library projects that provides easy to use and extensible Barcode Scanner views based on ZXing and ZBar.
