@@ -1,6 +1,9 @@
 apply plugin: 'com.android.library'
 
-
+android {
+    compileSdkVersion 30
+    // 其他配置项
+}
 dependencies {
     implementation libraries.support_v4
 }
