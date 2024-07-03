@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/yongzheng/source/barcodescanner/zbar-sample/build/intermediates/incremental/mergeDebugResources/merged.dir/values-et/values-et.xml",
+            "outputFile": "/Users/yongzheng/source/scanner/zbar-sample/build/intermediates/incremental/mergeDebugResources/merged.dir/values-et/values-et.xml",
             "map": [
                 {
                     "source": "/Users/yongzheng/.gradle/caches/transforms-3/183c73343a705eb4250382bd9cfc7fa7/transformed/support-compat-28.0.0/res/values-et/values-et.xml",

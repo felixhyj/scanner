@@ -56,6 +56,10 @@ public class ViewFinderView extends View implements IViewFinder {
     }
 
     private void init() {
+
+        //ViewFinderView away is gone
+        setVisibility(View.GONE);
+
         //set up laser paint
         mLaserPaint = new Paint();
         mLaserPaint.setColor(mDefaultLaserColor);
