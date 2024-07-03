@@ -1,5 +1,7 @@
 apply plugin: 'com.android.library'
 apply plugin: 'maven-publish'
+
+group = 'com.github.stars-one'
 ext {
     isLibrary = true
     pomPackaging = "aar"
@@ -12,17 +14,4 @@ dependencies {
 //    api project(":core")
     api libraries.barcodescanner_core
     api libraries.zxing_core
-}
-afterEvaluate {
-    publishing {
-        publications {
-            // Creates a Maven publication called "release".
-            release(MavenPublication) {
-                from components.release
-                groupId = 'com.hzkj'
-                artifactId = 'scanner'
-                version = '1.0'
-            }
-        }
-    }
 }
