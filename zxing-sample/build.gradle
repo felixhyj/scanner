@@ -1,5 +1,8 @@
 apply plugin: 'com.android.application'
-
+android {
+    compileSdkVersion 30
+    // 其他配置项
+}
 dependencies {
 //    implementation project(":zxing")
     implementation libraries.barcodescanner_zxing

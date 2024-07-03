@@ -1,7 +1,10 @@
 apply plugin: 'com.android.application'
 
 
-
+android {
+    compileSdkVersion 30
+    // 其他配置项
+}
 android {
     defaultConfig {
         applicationId "${project.group}.zbar.sample"

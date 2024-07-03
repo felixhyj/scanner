@@ -3,7 +3,10 @@ apply plugin: 'maven-publish'
 
 group = 'com.github.stars-one'
 
-
+android {
+    compileSdkVersion 30
+    // 其他配置项
+}
 dependencies {
     api project(":core")
    // api libraries.barcodescanner_core
